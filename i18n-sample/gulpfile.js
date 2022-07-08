@@ -21,7 +21,7 @@ const inlineMap = true;
 const inlineSource = false;
 const outDest = 'out';
 
-const languages = [{ folderName: 'jpn', id: 'ja' }];
+const languages = [{ folderName: 'jpn', id: 'ja' }, { folderName: 'fr', id: 'fr' }];
 
 const cleanTask = function() {
 	return del(['out/**', 'package.nls.*.json', 'i18n-sample*.vsix']);
