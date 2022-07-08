@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="package" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="extension.sayHello.title">
+        <source xml:lang="en">Hello</source>
+        <target>JA_Hello</target>
+      </trans-unit>
+      <trans-unit id="extension.sayBye.title">
+        <source xml:lang="en">Bye</source>
+        <target>JA_Bye</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="out/extension" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="sayHello.text">
+        <source xml:lang="en">Hello</source>
+        <target>JA_Hello</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="out/command/sayBye" source-language="en" target-language="ja" datatype="plaintext">
+    <body>
+      <trans-unit id="sayBye.text">
+        <source xml:lang="en">Bye</source>
+        <target>JA_Bye</target>
+      </trans-unit>
+      >
+    </body>
+  </file>
+</xliff>
